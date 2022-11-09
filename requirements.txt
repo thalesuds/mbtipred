@@ -4,4 +4,3 @@ certifi==0.0.8
 chardet==1.0.1
 gunicorn==20.1.0
 requests==0.11.1
-Werkzeug==0.10.4
