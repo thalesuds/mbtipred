@@ -164,3 +164,11 @@ kaggle.json
 
 #Descrição do Projeto
 ProjectDescription.ipynb
+
+## Edit
+
+\notebooks\*.csv
+\notebooks\*.h5
+notebooks\*.csv
+notebooks\*.h5
+mbti_bagofwords.h5
